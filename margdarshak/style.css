@@ -1,0 +1,87 @@
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin:0;
+    height:100vh;
+    color:rgba(227, 0, 0, 0.758);
+    /* background:linear-gradient(
+        -140deg,
+        #df773b,
+        #d2c9ca,
+        #9afc6c
+
+    ); */
+    background:black;
+    font-family: "Poppins";
+    background-image:url("Screenshot (168).png") ;
+    
+}
+.card{
+    display:flex;
+    align-item:center;
+    width:75vw;
+    max-width:650px;
+    padding:50px 30px 50px 20px;
+    background:#a4a4a4;
+    border-radius:24px;
+}
+.card img{
+    max-width:280px;
+    width:32vw;
+    height:270px;
+    object-fit:cover;
+    margin-left:-60px;
+    margin-right:40px;
+    border-radius:inherit;
+}
+h2,h3{
+    font-weight:600;
+    
+font-family: 'Roboto', sans-serif;
+}
+h3,label{
+    opacity:1;
+}
+.card h2{
+    font-size:28px;
+    margin: 0;
+
+}
+.card h3{
+    font-size:16px;
+    margin:0 0 20px;
+}
+.card buttons{
+    display:inline-flex;
+    gap:10px;
+
+}
+.video{
+    
+    float:inline-start;
+   
+    position: relative;
+    top: -250px;
+    left: 0px;
+  
+   
+  
+}
+#card1{
+    margin-right:20px;
+    translate:-343px;
+}
+#card2{
+    margin-left:60px;
+}
+.h1{ 
+    color:aqua;
+    font-family: 'Noto Nastaliq Urdu', serif;
+    text-align: top;
+}
+.abc{
+    display: flex;
+    text-align: center;
+    color:aqua;
+}

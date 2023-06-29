@@ -1,0 +1,25 @@
+body{
+    background: black;
+}
+.card-body{
+    color:aqua;
+/* font-size: 50px; */
+font-family: 'Roboto', sans-serif;
+
+}
+p.card-text {
+    /* font-size: 20px; */
+    color: #cdea11;
+   
+    
+  }
+  .private{
+    display:flex;
+    
+   
+}
+.card{
+    padding:30px;
+    border-style: dotted;
+    border-color: aquamarine;
+}

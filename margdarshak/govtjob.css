@@ -1,0 +1,37 @@
+body{
+    background: black;
+}
+.card-body{
+    color:aqua;
+/* font-size: 50px; */
+font-family: 'Roboto', sans-serif;
+
+}
+p.card-text {
+    /* font-size: 20px; */
+    color: #cdea11;
+   
+    
+  }
+  
+.govt{
+    display:flex;
+    
+   
+}
+.card{
+    padding:30px;
+    border-style: dotted;
+    border-color: aquamarine;
+}
+/* .btn btn-primary{
+    font-size:20px ;
+} */
+.video{
+    float:inline-start;
+   
+    position: relative;
+    top: 6px;
+    left: 0px;
+  
+}
